@@ -1,5 +1,5 @@
 # Curriculum Vitae - Projet noté à rendre
-BUT Info - Semestre 1 - Projet WEB
+BUT Info - Semestre 1 - Projet Web
 
 Sujet
 
